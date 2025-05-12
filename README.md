@@ -1,5 +1,5 @@
 # OOP_Cplus
-<h3>This repository contains all coding exercises from the module "Object-oriented programming". </h3>
+<h3>This repository contains all coding exercises from the module "Object-oriented programming" (2024). </h3>
 
 <h4>Every lab implements a new principle: </h4>
 lab 1: recap of programming basics (bubblesort)    <br>
