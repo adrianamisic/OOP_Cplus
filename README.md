@@ -1,5 +1,5 @@
 # OOP_Cplus
-<h3>(2024).This repository is designed for the Object-Oriented Programming course, emphasizing core OOP principles and C++ based design. It spans topics from basic <br>
+<h3>This repository is designed for the Object-Oriented Programming course (2024), emphasizing core OOP principles and C++ based design. It spans topics from basic <br>
   programming constructs and  object-oriented paradigms to advanced areas such as multithreading. </h3>
 
 <h4>Every lab implements a new principle: </h4>
