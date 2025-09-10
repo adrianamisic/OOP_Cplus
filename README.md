@@ -8,3 +8,5 @@ Lab 2: RPN-calculator with and without stack pointers    <br>
 Lab 3: single and (b) doubly linked list    <br>
 Lab 4: classes and inheritance    <br>
 Lab 5: binary tree implementation    <br>
+
+Due to the course being taught in german, many variable names and explanatory comments have been written in german.
